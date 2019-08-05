@@ -3,7 +3,7 @@ print("Anirudh\" Rathore")
 
 phrase = "Anirudh Rathore"
 print(phrase)
-print(phrase + " is cool")
+print(phrase + " is ghanta cool.")
  
 print(phrase.upper())
 print(phrase.lower())
